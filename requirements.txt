@@ -1,0 +1,7 @@
+Flask
+aiohttp
+feedparser
+APScheduler
+aiosqlite
+beautifulsoup4
+lxml

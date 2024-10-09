@@ -1,0 +1,12 @@
+http://rss.cnn.com/rss/edition.rss
+http://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml
+https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+https://www.bbc.com/persian/index.xml
+https://www.bbc.co.uk/worldservice/index.xml
+https://www.voanews.com/persian/rss
+https://github.blog/feed/
+https://stackoverflow.blog/feed/
+https://feeds.bbci.co.uk/news/world/middle_east/rss.xml
+https://feeds.bbci.co.uk/news/world/europe/rss.xml
+https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml
+
